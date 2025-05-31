@@ -9,7 +9,8 @@
 Connect both PCs via switch and test connectivity using ping.
 
 ## Result:
-Ping from PC0 to PC1: [See ping.txt]
+Ping from PC0 to PC1: ![image](https://github.com/user-attachments/assets/6919b106-6ba6-4350-a77a-fe8e65e2e73a)
+
 
 ## Author:
-[GitHub username]
+Yurii Vysotskyi
